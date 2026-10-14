@@ -1,0 +1,19 @@
+# ORSPEX Favicon Generator
+# https://orpexexitus-maker.github.io/orspex-favicon-generator/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://orpexexitus-maker.github.io/orspex-favicon-generator/sitemap.xml
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /

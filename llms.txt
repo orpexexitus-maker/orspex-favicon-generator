@@ -1,0 +1,27 @@
+# ORSPEX
+
+> ORSPEX builds practical Windows software and free web tools for small business.
+> Products include the Business Suite (offline ERP), the free PDF Compressor,
+> the free Favicon Generator, and Orspex Jobs (a free job board).
+
+## Products
+
+- [ORSPEX Business Suite](https://orspex.netlify.app/#pricing): Offline ERP for small business. Accounting, inventory, manufacturing, sales, purchasing, and VAT. One-time purchase, $50.
+- [ORSPEX PDF Compressor](https://orpexexitus-maker.github.io/orspex-pdf-compressor/): Free PDF compression tool. Runs online in your browser or offline with the Windows app.
+- [ORSPEX Favicon Generator](https://orspex.netlify.app/favicon-generator/): Free favicon generator. Turn any image into favicon.ico, PNG variants, and a site.webmanifest. Runs in your browser — no uploads.
+- [Orspex Jobs](https://orspex-jobs-seeking.vercel.app/): Free job board connecting job seekers with employers. No fees.
+
+## About ORSPEX
+
+ORSPEX builds practical, offline-first software for small businesses. Every tool is designed to be private, fast, and free of subscriptions. The Business Suite is the only paid product ($50 one-time); everything else is free forever.
+
+- Website: https://orspex.netlify.app/
+- Email: orpexexitus@gmail.com
+- WhatsApp: +971 50 124 5199
+- Language: English, Arabic
+
+## Optional
+
+- [Privacy Policy](https://orspex.netlify.app/privacy.html)
+- [Terms of Service](https://orspex.netlify.app/terms.html)
+- [Refund Policy](https://orspex.netlify.app/refund.html)

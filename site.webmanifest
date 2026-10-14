@@ -1,0 +1,27 @@
+{
+  "name": "ORSPEX Favicon Generator",
+  "short_name": "Favicon Gen",
+  "description": "Free favicon generator. Turn any image into favicon.ico, PNG variants, and site.webmanifest.",
+  "start_url": "/favicon-generator/",
+  "scope": "/favicon-generator/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0F172A",
+  "icons": [
+    {
+      "src": "android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "en",
+  "categories": ["utilities", "developer", "productivity"]
+}
