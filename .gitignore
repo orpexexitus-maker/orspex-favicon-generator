@@ -1,10 +1,15 @@
-# Windows
+# OS
 Thumbs.db
 Desktop.ini
-
-# macOS
 .DS_Store
 
-# Test files
-test*.png
-test*.jpg
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Temporary
+jszip.min.js
+
+# Rust build artifacts (huge, regenerable)
+windows-app/target/
